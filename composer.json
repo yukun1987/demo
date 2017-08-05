@@ -1,0 +1,13 @@
+{
+    "name": "yukun1987/demo",
+    "description": "composer project",
+    "type": "project",
+    "authors": [
+        {
+            "name": "yukun1987",
+            "email": "515206447@qq.com"
+        }
+    ],
+    "require": {},
+    "minimum-stability":"dev"
+}
